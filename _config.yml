@@ -1,0 +1,37 @@
+title: suspicious.actor
+author: Austin Hudson
+email: austinhudson@protonmail.ch
+description: >
+  A collection of blog posts and experiments conducted on my spare time
+  because I don't know what else to do. Topics center around engineering
+  and developement.
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+- posts.md
+
+footer_icons:
+- username: realoriginal
+  url: https://github.com/realoriginal
+  icon: icon-github.svg
+- username: Austin
+  url: https://linkedin.com/in/austin-h-430ba2196
+  icon: icon-linkedin.svg
+
+paginate: 5
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - minima-reboot.gemspec
