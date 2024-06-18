@@ -4,8 +4,9 @@ title: "A Summary of Memory Obuscation & Building Chains"
 categories: misc
 ---
 
-![image](https://github.com/realoriginal/realoriginal.github.io/assets/118862626/dd3cbfb2-900b-4427-afa6-52cfadaeba10)
-![image](https://github.com/realoriginal/realoriginal.github.io/assets/118862626/a90189e4-6ec9-4600-a178-15aab7cb6fd4)
+![image](https://github.com/realoriginal/realoriginal.github.io/assets/118862626/916bc6b1-518f-4f02-8cf4-15db1bb2260f)
+![image](https://github.com/realoriginal/realoriginal.github.io/assets/118862626/a6946900-3069-48aa-98af-a96cd7891c8d)
+
 
 
 
