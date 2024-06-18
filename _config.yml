@@ -20,10 +20,9 @@ header_pages:
 - posts.md
 
 footer_icons:
-- username: realoriginal
+- username: Github
   url: https://github.com/realoriginal
-  icon: icon-github.svg
-- username: Austin
+- username: Linkedin
   url: https://linkedin.com/in/austin-h-430ba2196
 
 paginate: 5
